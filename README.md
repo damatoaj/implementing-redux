@@ -16,7 +16,7 @@ Start the tests with:
 > yarn test --watch
 ```
 
-Read through the [test cases](implementing-redux/__tests__/tests.spec.js) and implement the required logic in `implementing-redux/index.js`
+Read through the [test cases](implementing-redux/__tests__/tests.spec.js) and implement the required logic in `implementing-redux/index.js
 
 ## Wire it all up
 
